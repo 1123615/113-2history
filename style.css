@@ -82,7 +82,7 @@ right: 0.5rem;
   height: 113px;
   background: linear-gradient(to bottom, #5487de 10%, #4a76c2 90%);
   position: absolute;
-  left: 358px;
+  left: 408px;
   top: 225px;
 }
 
@@ -90,7 +90,7 @@ right: 0.5rem;
   border:dashed 1px #5487de;
   width:500px;
   position: absolute;
-  left: 520px;
+  left: 570px;
   top: 213px;
 }
 
@@ -100,7 +100,7 @@ right: 0.5rem;
   border:solid 5px #4a76c2;
   border-radius:50%;
   position:absolute;
-  left:350px;
+  left:400px;
   top:338px;
 }
 
@@ -109,7 +109,7 @@ right: 0.5rem;
   height: 113px;
   background: linear-gradient(to bottom, #4a76c2 10%, #3d62a1 90%);
   position: absolute;
-  left: 358px;
+  left: 408px;
   top: 358px;
 }
 
@@ -117,7 +117,7 @@ right: 0.5rem;
   border:dashed 1px #4a76c2;
   width:500px;
   position: absolute;
-  left: 520px;
+  left: 570px;
   top: 348px;
 }
 
@@ -127,7 +127,7 @@ right: 0.5rem;
   border:solid 5px #3d62a1;
   border-radius:50%;
   position:absolute;
-  left:350px;
+  left:400px;
   top:471px;
 }
 
@@ -136,7 +136,7 @@ right: 0.5rem;
   height: 117px;
   background: linear-gradient(to bottom, #3d62a1 10%, #304d80 90%);
   position: absolute;
-  left: 358px;
+  left: 408px;
   top: 489px;
 }
 
@@ -144,7 +144,7 @@ right: 0.5rem;
   border:dashed 1px #3d62a1;
   width:500px;
   position: absolute;
-  left: 520px;
+  left: 570px;
   top: 480px;
 }
 
@@ -154,7 +154,7 @@ right: 0.5rem;
   border:solid 5px #304d80;
   border-radius:50%;
   position:absolute;
-  left:350px;
+  left:400px;
   top:605px;
 }
 
@@ -163,7 +163,7 @@ right: 0.5rem;
   height: 283px;
   background: linear-gradient(to bottom, #304d80 10%, #24395e 90%);
   position: absolute;
-  left: 358px;
+  left: 408px;
   top: 624px;
 }
 
@@ -171,7 +171,7 @@ right: 0.5rem;
   border:dashed 1px #304d80;
   width:500px;
   position: absolute;
-  left: 523px;
+  left: 573px;
   top: 614px;
 }
 
@@ -181,7 +181,7 @@ right: 0.5rem;
   border:solid 5px #24395e;
   border-radius:50%;
   position:absolute;
-  left:350px;
+  left:400px;
   top:905px;
 }
 
@@ -190,7 +190,7 @@ right: 0.5rem;
   height: 250px;
   background: linear-gradient(to bottom, #24395e 10%, #182740 90%);
   position: absolute;
-  left: 358px;
+  left: 408px;
   top: 924px;
 }
 
@@ -198,6 +198,6 @@ right: 0.5rem;
   border:dashed 1px  #24395e;
   width:560px;
   position: absolute;
-  left: 467px;
+  left: 517px;
   top: 914px;
 }
